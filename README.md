@@ -1,5 +1,9 @@
-## Hi there 👋
 
+<div align="center">
+  
+![1000016136](https://github.com/user-attachments/assets/0c52256a-dfdf-41aa-a6da-e0c059e2ec68)
+  
+</div>
 <!--
 **RayLost101/RayLost101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
